@@ -1,0 +1,32 @@
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-e225ee2d {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+#center.data-v-e225ee2d {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-e225ee2d {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+#center.data-v-e225ee2d {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title.data-v-e225ee2d {
+  text-align: center;
+  margin: 15rpx 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.5);
+}

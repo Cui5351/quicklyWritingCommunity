@@ -1,0 +1,79 @@
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-35112905 {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+#center.data-v-35112905 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-35112905 {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+#center.data-v-35112905 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.my_info.data-v-35112905 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 70rpx;
+  flex-direction: column;
+  padding-top: 160rpx;
+}
+.my_info .phone.data-v-35112905 {
+  margin-top: 20rpx;
+}
+.my_info image.data-v-35112905 {
+  width: 250rpx;
+  margin-bottom: 30rpx;
+  height: 250rpx;
+  border-radius: 50%;
+}
+.other.data-v-35112905 {
+  margin-top: 30rpx;
+  padding: 0 30rpx;
+  box-sizing: border-box;
+}
+.other .three_bar.data-v-35112905 {
+  background-color: white;
+  border-radius: 20rpx;
+}
+.other .three_bar > view.data-v-35112905 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25rpx;
+  box-sizing: border-box;
+  color: rgba(0, 0, 0, 0.7);
+}
+.other .two_bar.data-v-35112905 {
+  display: flex;
+  justify-content: space-between;
+}
+.other .two_bar > view.data-v-35112905 {
+  color: rgba(0, 0, 0, 0.7);
+  padding: 30rpx 25rpx;
+  box-sizing: border-box;
+  width: 48%;
+  background-color: white;
+  border-radius: 20rpx;
+}
+.other .two_bar > view .title.data-v-35112905 {
+  display: flex;
+  justify-content: space-between;
+}
+.other .two_bar > view .content.data-v-35112905 {
+  margin-top: 25rpx;
+  box-sizing: border-box;
+  color: black;
+}

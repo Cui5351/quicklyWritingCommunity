@@ -1,0 +1,67 @@
+{
+	"pages": [
+		{
+			"path" : "pages/MyInfo/MyInfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false
+			}
+		},{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "首页",
+			"enablePullDownRefresh": true
+		}
+	},		{
+			"path" : "pages/Bills/MyPublishBills/MyPublishBills",
+			"style" : 
+			{
+				"navigationBarTitleText" : "我的发布",
+				"enablePullDownRefresh" : true
+			}
+		},
+	{
+		"path" : "pages/message/message",
+		"style" : 
+		{
+			"navigationBarTitleText" : "消息",
+			"enablePullDownRefresh" : true
+		}
+	},
+	{
+		"path" : "pages/Bills/MyReceiveBills/MyReceiveBills",
+		"style" : 
+		{
+			"navigationBarTitleText" : "我的订单",
+			"enablePullDownRefresh" : false
+		}
+	}],
+	"tabBar": {
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/message/message",
+				"text": "消息"
+			},
+			{
+				"pagePath": "pages/MyInfo/MyInfo",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"enablePullDownRefresh": true,
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}

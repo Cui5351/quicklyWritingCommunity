@@ -1,0 +1,14 @@
+@import '@/uni_modules/uni-scss/variables.scss';
+$gray:rgba(0,0,0,0.7);
+.container{
+	height: 100vh;
+	overflow-x: hidden;
+	overflow-y: auto;
+	// padding-bottom: 50rpx;
+}
+// 居中
+#center{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
